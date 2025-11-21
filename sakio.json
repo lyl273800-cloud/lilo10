@@ -1,0 +1,19 @@
+{
+  "updates": [
+    {
+      "version": "1.0.1",
+      "url": "https://lyl273800-cloud.github.io/Lilo00/sakio_v1.0.1.apk",
+      "changelog": "تم إضافة ميزات جديدة وإصلاح بعض الأخطاء"
+    },
+    {
+      "version": "1.0.2",
+      "url": "https://lyl273800-cloud.github.io/Lilo00/sakio_v1.0.2.apk",
+      "changelog": "تحسين الأداء وإصلاح مشاكل الاستقرار"
+    },
+    {
+      "version": "1.1.0",
+      "url": "https://lyl273800-cloud.github.io/Lilo00/sakio_v1.1.0.apk",
+      "changelog": "إضافة واجهة جديدة وتحديث النظام الداخلي"
+    }
+  ]
+}
